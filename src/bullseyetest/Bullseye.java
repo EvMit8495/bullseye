@@ -33,7 +33,7 @@ public class Bullseye extends JPanel
       g.setColor(Color.BLUE);
       g.fillOval(73, 73, 75, 75);
       
-      g.setColor(getColor);
+      g.setColor(Color.WHITE);
       g.fillOval(91, 91, 40, 40);
    } 
 } // end class bullseye
